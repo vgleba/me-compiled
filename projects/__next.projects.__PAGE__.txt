@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[48299,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0742vpx4_kdm4.js","/_next/static/chunks/01z8u_~~9ujfa.js","/_next/static/chunks/0a40sy4tk8ioe.js"],"default"]
+3:I[66882,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0742vpx4_kdm4.js","/_next/static/chunks/01z8u_~~9ujfa.js","/_next/static/chunks/0a40sy4tk8ioe.js"],"Navbar"]
+4:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0742vpx4_kdm4.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","$L3",null,{}],["$","main",null,{"className":"relative z-40 overflow-x-hidden min-h-screen","children":["$","section",null,{"className":"max-w-6xl mx-auto px-4 sm:px-6 pt-28 pb-20","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold mb-2 text-white tracking-tight","children":"Projects"}],["$","p",null,{"className":"text-muted text-sm mb-12","children":"A selection of things I've built."}],["$","p",null,{"className":"text-muted text-sm","children":"TBD"}]]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/01z8u_~~9ujfa.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0a40sy4tk8ioe.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"42598HK2quH6UM5JL52KV"}
+6:null
